@@ -1,5 +1,9 @@
 package az.com.orient.model;
 
+import az.com.orient.entity.EntityPerson;
+
+import javax.swing.text.html.parser.Entity;
+
 public class PersonModel {
 
     Integer id ;
@@ -17,6 +21,15 @@ public class PersonModel {
         this.surname = surname;
         this.email = email;
         this.userName = userName;
+    }
+    public PersonModel(EntityPerson entityPerson){
+        this.id=entityPerson.getId();
+        this.name=entityPerson.getName();
+        this.surname=entityPerson.getSurname();
+        this.email=entityPerson.getEmail();
+        this.userName=entityPerson.getUserName();
+
+
     }
 
     public Integer getId() {

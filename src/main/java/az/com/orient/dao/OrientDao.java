@@ -6,6 +6,8 @@ import java.util.List;
 
 public interface OrientDao {
 
-    void save ();
+    void add  (PersonModel personModel);
+    List <PersonModel> getAllPersonModels();
+    PersonModel getPersonModelById(Integer id);
 
 }

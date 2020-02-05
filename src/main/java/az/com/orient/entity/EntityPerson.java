@@ -1,9 +1,11 @@
 package az.com.orient.entity;
 
+import az.com.orient.model.PersonModel;
+
 import javax.persistence.*;
 
 @Entity
-@Table(name="person")
+@Table(name= "person")
 public class EntityPerson {
 
     @Id
@@ -27,6 +29,13 @@ public class EntityPerson {
         this.surname = surname;
         this.email = email;
         this.userName = userName;
+    }
+
+    public EntityPerson(PersonModel personModel) {
+        this.name = personModel.getName();
+        this.surname = personModel.getSurname();
+        this.email = personModel.getEmail();
+        this.userName = personModel.getUserName();
     }
 
     public Integer getId() {
