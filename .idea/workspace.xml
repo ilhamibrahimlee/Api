@@ -7,25 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36b53ded-5a10-4818-bc41-163cde5a920d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IlkApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IlkApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IlkApi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/com/orient/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/dao/OrientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/com/orient/dao/OrientDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/dao/OrientDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/com/orient/dao/OrientDaoImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/entity/EntityPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/com/orient/entity/EntityPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/model/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/com/orient/model/PersonModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/com/orient/model/PersonModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/dao/OrientDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/dao/OrientDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/dao/OrientDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/dao/OrientDaoImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/entity/EntityPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/entity/EntityPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/model/PersonModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/IlkApiArtifactId/WEB-INF/classes/az/com/orient/model/PersonModel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/az/com/orient/controller/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/dao/OrientDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/az/com/orient/dao/OrientDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/dao/OrientDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/az/com/orient/dao/OrientDaoImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/model/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/model/PersonModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/az/com/orient/model/PersonModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/az/com/orient/entity/EntityPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/az/com/orient/entity/EntityPerson.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,36 +51,31 @@
   </component>
   <component name="ProjectId" id="1XKsOCTw339TA52aMTNkZJzLspY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\java" />
-      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main" />
-      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\java\az\com\orient" />
-      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\test\resources" />
-      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main" />
       <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\META-INF" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\resources" />
+      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\java" />
+      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main" />
+      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\main\java\az\com\orient" />
+      <recent name="C:\Users\ilkin\IdeaProjects\IlkApi\src\test\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.29" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.29" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -157,6 +153,29 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15069552" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -170,6 +189,10 @@
       <workItem from="1580806094145" duration="11652000" />
       <workItem from="1580884197631" duration="16318000" />
       <workItem from="1580915847287" duration="1365000" />
+      <workItem from="1580919861302" duration="1077000" />
+      <workItem from="1580925339227" duration="1648000" />
+      <workItem from="1581017615556" duration="336000" />
+      <workItem from="1581018674933" duration="5438000" />
     </task>
     <servers />
   </component>
@@ -188,5 +211,71 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1581018982678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581018982678" />
+    <state width="1098" height="15" key="GridCell.Tab.0.bottom" timestamp="1581024269765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581024269765" />
+    <state width="1098" height="15" key="GridCell.Tab.0.center" timestamp="1581024269764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581024269764" />
+    <state width="1098" height="15" key="GridCell.Tab.0.left" timestamp="1581024269764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581024269764" />
+    <state width="1098" height="15" key="GridCell.Tab.0.right" timestamp="1581024269765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581024269765" />
+    <state width="1098" height="15" key="GridCell.Tab.1.bottom" timestamp="1581024269769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581024269769" />
+    <state width="1098" height="15" key="GridCell.Tab.1.center" timestamp="1581024269768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581024269768" />
+    <state width="1098" height="15" key="GridCell.Tab.1.left" timestamp="1581024269767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581024269767" />
+    <state width="1098" height="15" key="GridCell.Tab.1.right" timestamp="1581024269768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581024269768" />
+    <state width="1098" height="15" key="GridCell.Tab.2.bottom" timestamp="1581024269767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581024269767" />
+    <state width="1098" height="15" key="GridCell.Tab.2.center" timestamp="1581024269766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1581024269766" />
+    <state width="1098" height="15" key="GridCell.Tab.2.left" timestamp="1581024269766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1581024269766" />
+    <state width="1098" height="15" key="GridCell.Tab.2.right" timestamp="1581024269767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1098" height="15" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1581024269767" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1581018974803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581018974803" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581018694582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581018694582" />
+    <state x="513" y="159" key="svn.repositoryBrowser" timestamp="1581018716220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="159" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1581018716220" />
   </component>
 </project>

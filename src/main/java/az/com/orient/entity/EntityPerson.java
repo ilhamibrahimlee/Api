@@ -1,11 +1,15 @@
 package az.com.orient.entity;
 
 import az.com.orient.model.PersonModel;
-
 import javax.persistence.*;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
-@Table(name= "person")
+@Table(name="person")
 public class EntityPerson {
 
     @Id
